@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Galería de Imágenes</title>
+</head>
+<body>
+    <h1>Bienvenido a mi Galería de Imágenes</h1>
+    <div id="gallery">
+        <img src="images/imagen1.jpg" alt="Imagen 1">
+        <img src="images/imagen2.jpg" alt="Imagen 2">
+        <!-- Añade más imágenes según sea necesario -->
+    </div>
+</body>
+</html>
